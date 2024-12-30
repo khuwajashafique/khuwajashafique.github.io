@@ -5,36 +5,37 @@
     </div>
   </header>
 
-  <section id="about" class="container">
-    <h2>About Me</h2>
-    <p>
-      Hello! I'm a second year PhD student in Science, Technology, and Innovation Policy at Mehran University of Engineering and Technology. My research lies at the intersection of policy, technology, and innovation, with a particular focus on industrial policy, game theory, and the political economy of emerging technologies like fusion energy and fintech.
-    </p>
-  </section>
+<p>Hello!</p>
 
-  <section id="research" class="container">
-    <h2>Research Interests</h2>
-    <ul>
-      <li>Industrial Policy & Sustainable Development</li>
-      <li>Game Theory & Technology Diffusion</li>
-      <li>Political Economy of Emerging Technologies (Fusion Energy, Fintech)</li>
-      <li>Climate Change and Technology Policy</li>
-    </ul>
-  </section>
+I’m a second year PhD student in **Science, Technology, and Innovation Policy** at **Mehran University Institute of Science, Technology and Development (MUISTD)** of the  **Mehran University of Engineering and Technology, Jamshoro, Sindh**. My academic interests lie at the intersection of industrial policy, clean technology, game theory, and technology diffusion, with a particular focus on how these areas shape sustainable development and innovation in emerging economies.
 
-  <section id="projects" class="container">
-    <h2>Ongoing Projects</h2>
-    <ul>
-      <li><a href="https://github.com/your-repository">Net Zero Challenge to Industrial Policy: A Game Theoretic Study</a></li>
-      <li><a href="https://github.com/your-repository">Open Science for Industry 5.0: Challenges to Industrial Policy in Aging Societies</a></li>
-      <li><a href="https://github.com/your-repository">Political Economy of Fusion Energy</a></li>
-    </ul>
-  </section>
+<h3 id="academic-background">Academic Background</h3>
 
-  <footer class="container">
-    <p>Feel free to explore my <a href="https://github.com/your-github-profile">GitHub</a> for academic projects and code.</p>
-  </footer>
+I hold a MA in Public Policy from **University of Karachi** and an MPhil in Public Policy from **Pakistan Institute of Development Economics, Islamabad**. My journey in academia has been driven by a desire to explore how  public policy</strong> and  innovation systems</strong> can foster societal progress. My current research delves into challenges such as:
+<ul>
+<li>The  political economy of fusion energy</strong></li>
+<li> Net-zero strategies</strong> and their implications for industrial policy</li>
+<li>The evolving role of  open science</strong> in fostering Industry 5.0</li>
+</ul>
 
-  <script src="scripts.js"></script>
-</body>
-</html>
+<h3 id="interests">Interests</h3>
+<p>Beyond my academic pursuits, I am passionate about:</p>
+<ul>
+<li> Outdoors &amp; Adventure:</strong> Hiking, long drives, and exploring nature</li>
+<li> Books &amp; Movies:</strong> Reading insightful books and enjoying thought-provoking films</li>
+<li> Meeting New People:</strong> I love engaging with individuals from diverse backgrounds and learning from their perspectives.</li>
+</ul>
+
+<h3 id="skills">Skills</h3>
+<p>I am currently developing my programming skills in  Python &amp; R</strong>, combining theoretical understanding with practical exercises to apply them in research contexts like data analysis and modeling.</p>
+
+<h3 id="you-can-reach-out-to-me-through">You can reach out to me through:</h3>
+<ul>
+
+  
+<li> Email: <a href="mailto:shafique.soomro@outlook.com">shafique.soomro@outlook.com</a></li>
+<li> LinkedIn: <a href="https://www.linkedin.com/in/khuwajashafique/" target="_blank">Khuwaja Shafique Ahmed</a></li>
+<li> Twitter: <a href="https://twitter.com/shafique_soomro" target="_blank">@shafique_soomro</a></li>
+<li> GitHub: <a href="https://github.com/khuwajashafique" target="_blank">https://github.com/shikarpuri</a></li>
+</ul>
+</section>
