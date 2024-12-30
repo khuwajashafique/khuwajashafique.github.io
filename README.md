@@ -13,9 +13,9 @@ I’m a second year PhD student in **Science, Technology, and Innovation Policy*
 
 I hold a MA in Public Policy from **University of Karachi** and an MPhil in Public Policy from **Pakistan Institute of Development Economics, Islamabad**. My journey in academia has been driven by a desire to explore how  public policy and  innovation systems can foster societal progress. My current research delves into challenges such as:
 <ul>
-<li>The  political economy of fusion energy</li>
-<li> Net-zero strategies and their implications for industrial policy</li>
-<li>The evolving role of  open science in fostering Industry 5.0</li>
+<li>The  political economy of fusion energy
+<li> Net-zero strategies and their implications for industrial policy
+<li>The evolving role of  open science in fostering Industry 5.0
 </ul>
 
 <h3 id="interests">Interests</h3>
