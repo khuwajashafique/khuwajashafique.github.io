@@ -38,6 +38,3 @@ I hold a MA in Public Policy from **University of Karachi** and an MPhil in Publ
 <li> Twitter: <a href="https://twitter.com/shafique_soomro" target="_blank">@shafique_soomro</a></li>
 <li> GitHub: <a href="https://github.com/khuwajashafique" target="_blank">https://github.com/khuwajashafique</a></li>
 </ul>
-
-
-
