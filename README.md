@@ -27,7 +27,7 @@ I hold a MA in Public Policy from **University of Karachi** and an MPhil in Publ
 </ul>
 
 <h3 id="skills">Skills</h3>
-<p>I am currently developing my programming skills in  Python &; R, combining theoretical understanding with practical exercises to apply them in research contexts like data analysis and modeling.</p>
+<p>I am currently developing my programming skills in  Python & R, combining theoretical understanding with practical exercises to apply them in research contexts like data analysis and modeling.</p>
 
 <h3 id="you-can-reach-out-to-me-through">You can reach out to me through:</h3>
 <ul>
