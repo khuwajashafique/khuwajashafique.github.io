@@ -36,6 +36,5 @@ I hold a MA in Public Policy from **University of Karachi** and an MPhil in Publ
 <li> Email: <a href="mailto:shafique.soomro@outlook.com">shafique.soomro@outlook.com</a></li>
 <li> LinkedIn: <a href="https://www.linkedin.com/in/khuwajashafique/" target="_blank">Khuwaja Shafique Ahmed</a></li>
 <li> Twitter: <a href="https://twitter.com/shafique_soomro" target="_blank">@shafique_soomro</a></li>
-<li> GitHub: <a href="https://github.com/khuwajashafique" target="_blank">https://github.com/shikarpuri</a></li>
+<li> GitHub: <a href="https://github.com/khuwajashafique" target="_blank">https://github.com/khuwajashafique</a></li>
 </ul>
-</section>
