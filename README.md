@@ -1,8 +1,6 @@
-<header>
-    <div class="container">
-     <p>PhD Candidate in Science, Technology, and Innovation Policy</p>
-    </div>
-  </header> 
+<p>PhD Candidate in Science, Technology, and Innovation Policy</p>
+</div>
+</header> 
 
 <p>Hello!</p>
 
