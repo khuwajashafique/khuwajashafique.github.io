@@ -1,6 +1,5 @@
 <header>
     <div class="container">
-      <h1>Khuwaja Shafique Ahmed</h1>
       <p>PhD Candidate in Science, Technology, and Innovation Policy</p>
     </div>
   </header>
