@@ -2,7 +2,7 @@
     <div class="container">
      <p>PhD Candidate in Science, Technology, and Innovation Policy</p>
     </div>
-  </header>
+  </header> 
 
 <p>Hello!</p>
 
