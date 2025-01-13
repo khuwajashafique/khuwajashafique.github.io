@@ -30,9 +30,7 @@ I am currently developing my programming skills in **Python** and **R**, combini
 
 ---
 
-## Contact Me
-You can reach out to me through:  
-- **Email**: [shafique.soomro@outlook.com](mailto:shafique.soomro@outlook.com)  
-- **LinkedIn**: [Khuwaja Shafique Ahmed](https://www.linkedin.com/in/khuwaja-shafique-ahmed)  
-- **Twitter**: [@shafique_soomro](https://twitter.com/shafique_soomro)  
-- **GitHub**: [Khuwaja Shafique](https://github.com/khuwajashafique)
+**You can reach out to me through:**
+- **Email**: [Khuwaja Shafique Ahmed](mailto:shafique.soomro@outlook.com)  
+- **LinkedIn**: [Khuwaja Shafique Ahmed](https://www.linkedin.com/in/khuwajashafique)  
+- **Blue Sky**: [Khuwaja Shafique Ahmed](https://bsky.app/profile/shafique.bsky.social)
